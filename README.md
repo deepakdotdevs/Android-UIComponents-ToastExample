@@ -26,19 +26,23 @@ It also explains **two different methods of handling Button clicks** in Kotlin:
 ---
 
 ## 📂 Project Structure
+
 ├── app/src/main/java/com/example/uicomponents/
 
 │ ├── MainActivity.kt # Button without lateinit
 
 │ └── MainActivity2.kt # Button with lateinit
 
+│
 ├── app/src/main/res/layout/
 
 │ ├── activity_main.xml # Layout for MainActivity
 
 │ └── activity_main2.xml # Layout for MainActivity2
 
+│
 └── AndroidManifest.xml
+
 
 ---
 
@@ -47,7 +51,7 @@ It also explains **two different methods of handling Button clicks** in Kotlin:
 
 | MainActivity (Button 1) | MainActivity2 (Button 2) |
 |--------------------------|--------------------------|
-| ![Main Screen](screenshots/one.png) | ![(screenshots/second.png) |
+| ![Main Screen](screenshots/one.png) | ![Second Screen](screenshots/second.png) |
 
 ---
 
