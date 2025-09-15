@@ -47,7 +47,7 @@ It also explains **two different methods of handling Button clicks** in Kotlin:
 
 | MainActivity (Button 1) | MainActivity2 (Button 2) |
 |--------------------------|--------------------------|
-| ![Main Screen](C:\Users\Deepak Jangid\Downloads\toast ss\1.png) | ![(C:\Users\Deepak Jangid\Downloads\toast ss\2.png) |
+| ![Main Screen](screenshots/one.png) | ![(screenshots/second.png) |
 
 ---
 
